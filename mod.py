@@ -9,7 +9,7 @@ from rich.console import Console
 from rich.panel import Panel
 from rich.pretty import Pretty
 import json
-
+# Checking if things working. Test GIT_NVIM
 
 DATA_FILE = os.path.join(os.path.dirname(__file__), "dict.json")
 RULE_FILE = os.path.join(os.path.dirname(__file__), "rule.json")
