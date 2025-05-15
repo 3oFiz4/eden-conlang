@@ -1,0 +1,596 @@
+| #  | Concept (Kanji) | Glyph   | Verb Form    |
+| -- | --------------- | ------- | ------------ |
+| 1  | Universe (宇宙)   | **qheo**2d | alam semesta; universe; to beset; to circle; to enclose; to envelop; to gird; to girdle; to cover; to embody; to encompass |
+| 3  | Sun (太陽)        | **fei** | sun; matahari; year; yellow; egg;      |
+| 4  | Moon (月)        | **feo** | to reflect; moon; bulan; month; far; deep; distant; long   |
+| 5  | Star (星)        | **iqo**2 | bintang; hero; idol; name; capital; chief; dominant; leading; major; main; principal; to twinkle; to blink; to flicker; to gleam; to wink; to sparkle; to shimmer   |
+| 7  | Mountain (山)    | **doi** | gunung; mountain; mt.; mount; cliff; alp; to elevant; to rise; ascent; to ascend; to hike; to climb; to up; to step; to lift; to soar;       |
+| 8  | River (川)       | **~ttao ** | sungai; stream; rill; run; course; current; tide; flow; to flow; to stream; to course; lake; river; |
+| 9  | Sea (海)         | **q~i^a** | laut; sea; ocean; expanse; lake; main; surge; flood; to surge; to flood; calm; peace     |
+| #  | Concept (Kanji) | Glyph    | Verb Form     |
+| -- | --------------- | -------- | ------------- |
+| 11 | Fire (火)        | **r~a^**  | api; bakar; fire; flame; blaze; to burn; to blaze; to flare; to ignite; to kindle; to incirnerate;        |
+| 12 | Water (水)       | **q~i^** | siram; id-air; to water; to spray; to sprinkle; to drench; water; aqua;      |
+| 13 | Earth (土)       | **do**  | | tanah; planet; dunia; bumi; lahan; world; planet; land; ground; floor; soil;clay; dirt; terrain |
+| 14 | Air (気)         | **k~i^**  | udara; angin; air; wind; expression; appearance; look; impression; aspect; manner; bearing; mood; quality; ambience; aura; flavor; to express; to voice; to vent; to ventilate; to articulate; to aerate; to fresh; to freshen; to breeze; to blow; to draft; zephyr; breeze; to breathe; breath; to puff; to gale;     |
+| 15 | Solid (金)       | **fer**  | solid; hard; rigid; firm; set; concrete; strong; durable; substantial; sturdy; valid; to solidify; to harden;  |
+| 16 | Tree (木)        | **ha~a^**  | pohon; sapling; bush; shrub; to grow; to cultivate; to produce; to raise; to promote; develop; to develop; to evolve; to advance; to progress; to mature; to thrive; to prosper; to bloom;         |
+| 17 | Light (光)       | **iq**  | light; illumination; cahaya; luminescence; luminosity; shine; gleam; radiance; glow; glare; angle; viewpoint; standpoint; opinion; interpretation; point of view; start; to start; bright; sunny; brilliant; beam; to lighten; to cheer up; to revive; to enliven; to encourage; to uplift; to glow; to glare; to radiate;    |
+| 18 | Darkness (暗)    | **oq**  | dark; black; gloomy; dim; to dim; to dark; to blacken; to gloom; dull; murk; dull; somber; cloudy; to end; end; gelap;    |
+| 19 | Sky              | **hi**  |  langit; kosong; palsu; sky; weather; lie; falsehood; fake; fake; deceit; myth; tale; ; empty; blank; dry; hollow; void; vain; to clear; to consume; to deplete; to lie; to drain;  
+| 20 | Rain (雨)        | **f~a/e**  | to pour       |
+| #  | Concept (Kanji) | Glyph    | Verb Form  |
+| -- | --------------- | -------- | ---------- |
+| 21 | Time (時)        | **krō** | waktu; time; lewat; to pass; elapse; to cross; to go; to lapse; to forward; over; too much; overly;     |
+| 22 | Day (日)         | **diē**  | hari; today; day;     |
+| 23 | Night (夜)       | **nox**  | to fall    |
+| 24 | Morning (朝)     | **aur**  | to rise    |
+| 25 | Evening (夕)     | **ves**  | to set     |
+| 26 | Spring (春)      | **ver**  | to bloom   |
+| 27 | Summer (夏)      | **aest** | to heat    |
+| 28 | Autumn (秋)      | **aut**  | to harvest |
+| 29 | Winter (冬)      | **hib**  | to freeze  |
+| 30 | Year (年)        | **ann**  | to cycle   |
+| #  | Concept (Kanji) | Glyph    | Verb Form  |
+| -- | --------------- | -------- | ---------- |
+| 31 | North (北)       | **bore** | to ascend  |
+| 32 | South (南)       | **not**  | to descend |
+| 33 | East (東)        | **ori**  | to begin   |
+| 34 | West (西)        | **occ**  | to end     |
+| 35 | Up (上)          | **sup**  | to elevate |
+| 36 | Down (下)        | **inf**  | to lower   |
+| 37 | Left (左)        | **sin**  | to deviate |
+| 38 | Right (右)       | **dex**  | to align   |
+| 39 | Center (中)      | **med**  | to balance |
+| #  | Concept (Kanji) | Glyph    | Verb Form  |
+| -- | --------------- | -------- | ---------- |
+| 41 | Head (頭)        | **cap**  | to think   |
+| 42 | Eye (目)         | **oc**   | to see     |
+| 43 | Ear (耳)         | **aur**  | to hear    |
+| 44 | Mouth (口)       | **or**   | to speak   |
+| 45 | Hand (手)        | **man**  | to grasp   |
+| 46 | Foot (足)        | **ped**  | to walk    |
+| 47 | Heart (心)       | **cor**  | to feel    |
+| 48 | Blood (血)       | **sang** | to bleed   |
+| 49 | Bone (骨)        | **oss**  | to support |
+| 50 | Skin (皮)        | **derm** | to cover   |
+| #  | Concept (Kanji) | Glyph     | Verb Form   |
+| -- | --------------- | --------- | ----------- |
+| 51 | Love (愛)        | **am**    | to cherish  |
+| 52 | Hate (憎)        | **od**    | to despise  |
+| 53 | Joy (喜)         | **gaud**  | to rejoice  |
+| 54 | Sadness (悲)     | **trist** | to mourn    |
+| 55 | Anger (怒)       | **ira**   | to rage     |
+| 56 | Fear (恐)        | **met**   | to dread    |
+| 57 | Surprise (驚)    | **mir**   | to startle  |
+| 58 | Disgust (嫌)     | **fast**  | to repel    |
+| 59 | Trust (信)       | **fid**   | to rely     |
+| 60 | Doubt (疑)       | **dub**   | to question |
+| 40 | Outside (外)     | **ext**  | to expose  |
+| #  | Concept (Kanji) | Glyph     | Verb Form   |
+| -- | --------------- | --------- | ----------- |
+| 51 | Love (愛)        | **am**    | to cherish  |
+| 52 | Hate (憎)        | **od**    | to despise  |
+| 53 | Joy (喜)         | **gaud**  | to rejoice  |
+| 54 | Sadness (悲)     | **trist** | to mourn    |
+| 55 | Anger (怒)       | **ira**   | to rage     |
+| 56 | Fear (恐)        | **met**   | to dread    |
+| 57 | Surprise (驚)    | **mir**   | to startle  |
+| 58 | Disgust (嫌)     | **fast**  | to repel    |
+| 59 | Trust (信)       | **fid**   | to rely     |
+| 60 | Doubt (疑)       | **dub**   | to question |
+| #  | Concept (Kanji) | Glyph     | Verb Form  |
+| -- | --------------- | --------- | ---------- |
+| 61 | Person (人)      | **hom**   | to exist   |
+| 62 | Man (男)         | **vir**   | to act     |
+| 63 | Woman (女)       | **fem**   | to nurture |
+| 64 | Child (子)       | **inf**   | to grow    |
+| 65 | Family (家族)     | **gen**   | to unite   |
+| 66 | Friend (友)      | **amic**  | to support |
+| 67 | Enemy (敵)       | **host**  | to oppose  |
+| 68 | Leader (長)      | **duc**   | to guide   |
+| 69 | Follower (従)    | **sect**  | to follow  |
+| 70 | Stranger (他人)   | **alien** | to differ  |
+| #  | Concept (Kanji) | Glyph    | Verb Form  |
+| -- | --------------- | -------- | ---------- |
+| 71 | Go (行)          | **vad**  | to proceed |
+| 72 | Come (来)        | **ven**  | to arrive  |
+| 73 | Enter (入)       | **intr** | to insert  |
+| 74 | Exit (出)        | **ex**   | to leave   |
+| 75 | Sit (座)         | **sed**  | to rest    |
+| 76 | Stand (立)       | **stat** | to rise    |
+| 77 | Walk (歩)        | **amb**  | to stroll  |
+| 78 | Run (走)         | **curr** | to sprint  |
+| 79 | Jump (跳)        | **sal**  | to leap    |
+| 80 | Sleep (眠)       | **somn** | to rest    |
+| #  | Concept (Kanji) | Glyph       | Verb Form    |
+| -- | --------------- | ----------- | ------------ |
+| 81 | Speak (話)       | **loqu**    | to converse  |
+| 82 | Listen (聞)      | **aud**     | to attend    |
+| 83 | Read (読)        | **leg**     | to interpret |
+| 84 | Write (書)       | **scrib**   | to record    |
+| 85 | Call (呼)        | **voc**     | to summon    |
+| 86 | Answer (答)      | **respond** | to reply     |
+| 87 | Ask (問)         | **interr**  | to inquire   |
+| 88 | Tell (語)        | **narr**    | to relate    |
+| 89 | Shout (叫)       | **clam**    | to exclaim   |
+| #   | Concept (Kanji) | Glyph     | Verb Form    |
+| --- | --------------- | --------- | ------------ |
+| 91  | Tree (木)        | **arb**   | to branch    |
+| 92  | Flower (花)      | **flor**  | to bloom     |
+| 93  | Grass (草)       | **herb**  | to sprout    |
+| 94  | Leaf (葉)        | **fol**   | to flutter   |
+| 95  | Root (根)        | **rad**   | to anchor    |
+| 96  | Fruit (果)       | **fruct** | to ripen     |
+| 97  | Seed (種)        | **sem**   | to germinate |
+| 98  | Animal (動物)     | **best**  | to roam      |
+| 99  | Bird (鳥)        | **avis**  | to fly       |
+| 100 | Fish (魚)        | **pisc**  | to swim      |
+| #   | Concept (Kanji) | Glyph   | Verb Form  |
+| --- | --------------- | ------- | ---------- |
+| 101 | Truth (真)       | **ver** | to affirm  |
+| 102 | Lie (偽)         | **fal** | to deceive |
+| 103 | Justice (正義)    | **jus** | to judge   |
+| 104 | Law (法)         | **lex** | to bind    |
+| 105 | Chaos (乱)       | **kao** | to scatter |
+| 106 | Order (序)       | **tag** | to align   |
+| 107 | Power (力)       | **dyn** | to exert   |
+| 108 | Weakness (弱)    | **lax** | to yield   |
+| 109 | Life (生)        | **zoe** | to live    |
+| 110 | Death (死)       | **nek** | to cease   |
+| #   | Concept (Kanji) | Glyph     | Verb Form   |
+| --- | --------------- | --------- | ----------- |
+| 111 | Know (知)        | **gnō**   | to grasp    |
+| 112 | Learn (学)       | **doc**   | to absorb   |
+| 113 | Think (考)       | **cog**   | to reflect  |
+| 114 | Understand (解)  | **luc**   | to clarify  |
+| 115 | Forget (忘)      | **obl**   | to erase    |
+| 116 | Memory (記憶)     | **mnē**   | to retain   |
+| 117 | Idea (意)        | **id**    | to conceive |
+| 118 | Wisdom (智)      | **soph**  | to discern  |
+| 119 | Dream (夢)       | **onei**  | to drift    |
+| 120 | Plan (計)        | **schem** | to design   |
+| 90 | Whisper (囁)     | **susurr**  | to murmur    |
+| #   | Concept (Kanji) | Glyph    | Verb Form    |
+| --- | --------------- | -------- | ------------ |
+| 121 | Money (金)       | **pec**  | to earn      |
+| 122 | Trade (貿)       | **mer**  | to exchange  |
+| 123 | Work (働)        | **erg**  | to labor     |
+| 124 | Build (建)       | **fab**  | to construct |
+| 125 | Buy (買)         | **acq**  | to obtain    |
+| 126 | Sell (売)        | **vend** | to offer     |
+| 127 | Give (与)        | **don**  | to grant     |
+| 128 | Take (取)        | **cap**  | to grasp     |
+| 129 | Use (使)         | **ut**   | to apply     |
+| 130 | Waste (浪費)      | **disp** | to squander  |
+| #   | Concept (Kanji) | Glyph      | Verb Form     |
+| --- | --------------- | ---------- | ------------- |
+| 131 | Good (善)        | **agath**  | to uplift     |
+| 132 | Evil (悪)        | **mal**    | to corrupt    |
+| 133 | Sin (罪)         | **pecc**   | to transgress |
+| 134 | Virtue (徳)      | **aret**   | to excel      |
+| 135 | Shame (恥)       | **pud**    | to blush      |
+| 136 | Pride (誇)       | **superb** | to exalt      |
+| 137 | Mercy (慈)       | **clem**   | to spare      |
+| 138 | Punish (罰)      | **cast**   | to correct    |
+| 139 | Repent (悔)      | **paen**   | to regret     |
+| 140 | Forgive (許)     | **rem**    | to release    |
+| #   | Concept (Kanji) | Glyph     | Verb Form  |
+| --- | --------------- | --------- | ---------- |
+| 141 | War (戦)         | **bell**  | to clash   |
+| 142 | Peace (平和)      | **pac**   | to soothe  |
+| 143 | Attack (攻)      | **aggr**  | to strike  |
+| 144 | Defend (守)      | **tut**   | to guard   |
+| 145 | Fight (闘)       | **pugn**  | to combat  |
+| 146 | Win (勝)         | **vict**  | to triumph |
+| 147 | Lose (負)        | **def**   | to yield   |
+| 148 | Break (壊)       | **fract** | to shatter |
+| 149 | Heal (癒)        | **san**   | to mend    |
+| 150 | Unite (統)       | **conj**  | to merge   |
+| #   | Concept (Kanji) | Glyph     | Verb Form   |
+| --- | --------------- | --------- | ----------- |
+| 151 | Travel (旅)      | **it**    | to journey  |
+| 152 | Return (帰)      | **red**   | to revert   |
+| 153 | Depart (発)      | **part**  | to depart   |
+| 154 | Arrive (着)      | **tang**  | to reach    |
+| 155 | Cross (越)       | **trāns** | to span     |
+| 156 | Pass (通)        | **meā**   | to traverse |
+| 157 | Guide (導)       | **duct**  | to lead     |
+| 158 | Seek (探)        | **quaer** | to search   |
+| 159 | Hide (隠)        | **cel**   | to conceal  |
+| 160 | Appear (現)      | **phan**  | to reveal   |
+| #   | Concept (Kanji) | Glyph     | Verb Form    |
+| --- | --------------- | --------- | ------------ |
+| 161 | Measure (測)     | **metr**  | to gauge     |
+| 162 | Count (数)       | **numer** | to enumerate |
+| 163 | Increase (増)    | **aug**   | to grow      |
+| 164 | Decrease (減)    | **min**   | to shrink    |
+| 165 | Full (満)        | **plēn**  | to fill      |
+| 166 | Empty (空)       | **vac**   | to drain     |
+| 167 | Many (多)        | **poly**  | to cluster   |
+| 168 | Few (少)         | **pau**   | to thin      |
+| 169 | All (全)         | **omn**   | to unify     |
+| 170 | None (無)        | **nih**   | to nullify   |
+| #   | Concept (Kanji) | Glyph       | Verb Form          |
+| --- | --------------- | ----------- | ------------------ |
+| 171 | Have (有)        | **hab**     | to possess         |
+| 172 | Own (所)         | **ten**     | to claim           |
+| 173 | Give up (捨)     | **ren**     | to abandon         |
+| 174 | Share (分)       | **part**    | to divide          |
+| 175 | Steal (盗)       | **klep**    | to take unlawfully |
+| 176 | Name (名)        | **nom**     | to label           |
+| 177 | Self (自)        | **ego**     | to reflect         |
+| 178 | Other (他)       | **ali**     | to contrast        |
+| 179 | Identity (身)    | **idē**     | to define          |
+| 180 | Mask (仮)        | **persona** | to feign           |
+| #   | Concept (Kanji) | Glyph    | Verb Form       |
+| --- | --------------- | -------- | --------------- |
+| 181 | See (視)         | **vid**  | to perceive     |
+| 182 | Hear (聴)        | **aus**  | to listen       |
+| 183 | Smell (嗅)       | **olf**  | to sniff        |
+| 184 | Taste (味)       | **gust** | to savor        |
+| 185 | Touch (触)       | **tact** | to feel         |
+| 186 | Sense (感)       | **sent** | to detect       |
+| 187 | Notice (覚)      | **cogn** | to become aware |
+| 188 | Ignore (無視)     | **neg**  | to dismiss      |
+| 189 | Perceive (認)    | **scī**  | to acknowledge  |
+| 190 | Observe (観)     | **spec** | to watch        |
+| #   | Concept (Kanji)   | Glyph      | Verb Form  |
+| --- | ----------------- | ---------- | ---------- |
+| 191 | Decide (決)        | **dic**    | to resolve |
+| 192 | Choose (選)        | **elig**   | to pick    |
+| 193 | Refuse (拒)        | **den**    | to reject  |
+| 194 | Accept (受)        | **accip**  | to receive |
+| 195 | Approve (認)       | **prob**   | to affirm  |
+| 196 | Deny (否)          | **neg**    | to block   |
+| 197 | Compare (比)       | **compar** | to weigh   |
+| 198 | Evaluate (評)      | **val**    | to rate    |
+| 199 | Judge (裁)         | **iud**    | to rule    |
+| 200 | Decide Later (保留) | **temp**   | to defer   |
+| #   | Concept (Kanji) | Glyph    | Verb Form        |
+| --- | --------------- | -------- | ---------------- |
+| 201 | Group (団)       | **syn**  | to gather        |
+| 202 | People (民)      | **dem**  | to populate      |
+| 203 | Tribe (族)       | **gen**  | to descend       |
+| 204 | Leader (首)      | **heg**  | to lead          |
+| 205 | Follower (従)    | **sec**  | to follow        |
+| 206 | Friend (友)      | **phil** | to bond          |
+| 207 | Enemy (敵)       | **ant**  | to oppose        |
+| 208 | Family (家)      | **dom**  | to house         |
+| 209 | Community (郷)   | **cōm**  | to unite locally |
+| 210 | Nation (国)      | **pat**  | to claim land    |
+| #   | Concept (Kanji) | Glyph     | Verb Form        |
+| --- | --------------- | --------- | ---------------- |
+| 211 | Time (時)        | **chrō**  | to pass          |
+| 212 | Now (今)         | **nun**   | to occur         |
+| 213 | Past (過)        | **prae**  | to precede       |
+| 214 | Future (未)      | **pro**   | to come          |
+| 215 | Moment (瞬)      | **kair**  | to flash         |
+| 216 | Forever (永)     | **aet**   | to endure        |
+| 217 | Delay (遅)       | **tar**   | to lag           |
+| 218 | Early (早)       | **tempō** | to hasten        |
+| 219 | Interval (間)    | **int**   | to span          |
+| 220 | Era (代)         | **genē**  | to define an age |
+| #   | Concept (Kanji) | Glyph     | Verb Form   |
+| --- | --------------- | --------- | ----------- |
+| 221 | Word (言)        | **lex**   | to speak    |
+| 222 | Name (名)        | **onō**   | to assign   |
+| 223 | Sign (兆)        | **sem**   | to indicate |
+| 224 | Image (像)       | **eid**   | to resemble |
+| 225 | Mark (印)        | **stig**  | to inscribe |
+| 226 | Code (符)        | **sigm**  | to encode   |
+| 227 | Letter (文)      | **lit**   | to write    |
+| 228 | Number (数)      | **arith** | to digitize |
+| 229 | Signal (信)      | **sign**  | to notify   |
+| 230 | Title (題)       | **tit**   | to headline |
+| #   | Concept (Kanji) | Glyph     | Verb Form  |
+| --- | --------------- | --------- | ---------- |
+| 231 | Joy (喜)         | **gaud**  | to rejoice |
+| 232 | Sadness (悲)     | **dol**   | to grieve  |
+| 233 | Anger (怒)       | **ira**   | to flare   |
+| 234 | Fear (恐)        | **tim**   | to shrink  |
+| 235 | Love (愛)        | **am**    | to cherish |
+| 236 | Hate (憎)        | **od**    | to reject  |
+| 237 | Surprise (驚)    | **thōm**  | to jolt    |
+| 238 | Calm (静)        | **plac**  | to soothe  |
+| 239 | Desire (欲)      | **cup**   | to crave   |
+| 240 | Shame (羞)       | **verec** | to flinch  |
+| #   | Concept (Kanji) | Glyph     | Verb Form      |
+| --- | --------------- | --------- | -------------- |
+| 241 | Alive (生)       | **viv**   | to persist     |
+| 242 | Dead (死)        | **mort**  | to fall silent |
+| 243 | Awake (覚)       | **vigil** | to rise        |
+| 244 | Asleep (眠)      | **somn**  | to drift       |
+| 245 | Healthy (健)     | **salv**  | to thrive      |
+| 246 | Sick (病)        | **mor**   | to decay       |
+| 247 | Strong (強)      | **fort**  | to hold        |
+| 248 | Weak (弱)        | **deb**   | to slacken     |
+| 249 | Full (満)        | **sat**   | to saturate    |
+| 250 | Empty (空)       | **vac**   | to exhaust     |
+| #   | Concept (Kanji) | Glyph    | Verb Form         |
+| --- | --------------- | -------- | ----------------- |
+| 251 | Weather (天気)    | **mete** | to fluctuate      |
+| 252 | Rain (雨)        | **pluv** | to fall (as rain) |
+| 253 | Wind (風)        | **anem** | to blow           |
+| 254 | Snow (雪)        | **niv**  | to cover          |
+| 255 | Sun (日)         | **sol**  | to radiate        |
+| 256 | Moon (月)        | **lūn**  | to reflect        |
+| 257 | Star (星)        | **ast**  | to sparkle        |
+| 258 | Cloud (雲)       | **neb**  | to obscure        |
+| 259 | Thunder (雷)     | **ton**  | to boom           |
+| 260 | Fog (霧)         | **cal**  | to veil           |
+| #   | Concept (Kanji) | Glyph     | Verb Form  |
+| --- | --------------- | --------- | ---------- |
+| 261 | Tool (具)        | **op**    | to enable  |
+| 262 | Machine (機)     | **mach**  | to process |
+| 263 | Weapon (武器)     | **arm**   | to strike  |
+| 264 | Vehicle (車)     | **veh**   | to move    |
+| 265 | Device (器)      | **appar** | to apply   |
+| 266 | Light (光)       | **luc**   | to shine   |
+| 267 | Fire (火)        | **ign**   | to burn    |
+| 268 | Water (水)       | **hyd**   | to flow    |
+| 269 | Earth (土)       | **terr**  | to hold    |
+| 270 | Air (気)         | **aer**   | to lift    |
+| #   | Concept (Kanji) | Glyph     | Verb Form  |
+| --- | --------------- | --------- | ---------- |
+| 271 | Move (動)        | **mot**   | to shift   |
+| 272 | Stop (止)        | **sta**   | to freeze  |
+| 273 | Push (押)        | **pel**   | to shove   |
+| 274 | Pull (引)        | **tract** | to draw    |
+| 275 | Throw (投)       | **iac**   | to launch  |
+| 276 | Catch (捕)       | **preh**  | to seize   |
+| 277 | Hold (持)        | **ten**   | to grip    |
+| 278 | Drop (落)        | **cad**   | to release |
+| 279 | Raise (上)       | **lev**   | to lift    |
+| 280 | Lower (下)       | **clin**  | to descend |
+| #   | Concept (Kanji)    | Glyph     | Verb Form    |
+| --- | ------------------ | --------- | ------------ |
+| 281 | Reason (理)         | **log**   | to structure |
+| 282 | Belief (信)         | **cred**  | to affirm    |
+| 283 | Doubt (疑)          | **dub**   | to question  |
+| 284 | Logic (論)          | **rat**   | to systemize |
+| 285 | Instinct (本能)      | **thum**  | to react     |
+| 286 | Consciousness (意識) | **noō**   | to attend    |
+| 287 | Will (意志)          | **vol**   | to intend    |
+| 288 | Idea (概念)          | **ide**   | to abstract  |
+| 289 | Emotion (感情)       | **path**  | to emote     |
+| 290 | Awareness (気づき)    | **sentī** | to awaken    |
+| #   | Concept (Kanji) | Glyph     | Verb Form    |
+| --- | --------------- | --------- | ------------ |
+| 291 | Magic (魔)       | **thaum** | to enchant   |
+| 292 | Curse (呪)       | **maled** | to bind fate |
+| 293 | Blessing (祝)    | **ben**   | to empower   |
+| 294 | Ritual (儀)      | **rit**   | to perform   |
+| 295 | Fate (運命)       | **moir**  | to unfold    |
+| 296 | Spirit (霊)      | **pneum** | to linger    |
+| 297 | Soul (魂)        | **anim**  | to persist   |
+| 298 | Ghost (幽霊)      | **phant** | to haunt     |
+| 299 | God (神)         | **theō**  | to preside   |
+| 300 | Demon (悪魔)      | **daim**  | to twist     |
+| #   | Concept (Kanji) | Glyph     | Verb Form |
+| --- | --------------- | --------- | --------- |
+| 301 | Art (芸)         | **kal**   | to create |
+| 302 | Beauty (美)      | **pul**   | to charm  |
+| 303 | Song (歌)        | **mel**   | to sing   |
+| 304 | Dance (舞)       | **chor**  | to sway   |
+| 305 | Draw (描)        | **skiz**  | to trace  |
+| 306 | Sculpt (彫)      | **carv**  | to carve  |
+| 307 | Poem (詩)        | **metr**  | to verse  |
+| 308 | Paint (絵)       | **pict**  | to color  |
+| 309 | Design (設)      | **form**  | to shape  |
+| #   | Concept (Kanji) | Glyph     | Verb Form  |
+| --- | --------------- | --------- | ---------- |
+| 311 | Good (善)        | **agath** | to benefit |
+| 312 | Evil (悪)        | **kak**   | to harm    |
+| 313 | Right (正)       | **jus**   | to justify |
+| 314 | Wrong (誤)       | **erro**  | to misdo   |
+| 315 | Duty (義)        | **off**   | to owe     |
+| 316 | Virtue (徳)      | **aret**  | to refine  |
+| 317 | Vice (罪)        | **vit**   | to corrupt |
+| 318 | Law (法)         | **nom**   | to govern  |
+| 319 | Guilt (罪)       | **culp**  | to stain   |
+| 320 | Forgive (赦)     | **absol** | to clear   |
+| #   | Concept (Kanji) | Glyph      | Verb Form         |
+| --- | --------------- | ---------- | ----------------- |
+| 321 | Speak (話)       | **dic**    | to say            |
+| 322 | Ask (問)         | **rog**    | to inquire        |
+| 323 | Answer (答)      | **resp**   | to reply          |
+| 324 | Read (読)        | **lect**   | to decode         |
+| 325 | Write (書)       | **scrib**  | to scribe         |
+| 326 | Tell (語)        | **narr**   | to recount        |
+| 327 | Listen (聞)      | **aud**    | to receive        |
+| 328 | Silence (黙)     | **tac**    | to still          |
+| 329 | Language (語言)   | **glōt**   | to encode thought |
+| 330 | Translate (訳)   | **transl** | to bridge meaning |
+| #   | Concept (Kanji) | Glyph    | Verb Form  |
+| --- | --------------- | -------- | ---------- |
+| 331 | Rule (治)        | **krāt** | to govern  |
+| 332 | Power (力)       | **dyn**  | to exert   |
+| 333 | Order (秩)       | **taks** | to arrange |
+| 334 | Lawful (合法)     | **leg**  | to permit  |
+| 335 | Outlaw (非合法)    | **ban**  | to forbid  |
+| 336 | Command (命)     | **mand** | to decree  |
+| 337 | Obey (従)        | **seq**  | to comply  |
+| 338 | Rebel (反)       | **rupt** | to defy    |
+| 339 | Crown (王)       | **reg**  | to reign   |
+| 340 | Citizen (市民)    | **civ**  | to belong  |
+| #   | Concept (Kanji) | Glyph    | Verb Form         |
+| --- | --------------- | -------- | ----------------- |
+| 341 | Trade (商)       | **mer**  | to exchange       |
+| 342 | Money (金)       | **pec**  | to store value    |
+| 343 | Market (市)      | **agor** | to vend           |
+| 344 | Price (値)       | **val**  | to rate           |
+| 345 | Cost (費)        | **exp**  | to spend          |
+| 346 | Sell (売)        | **vend** | to give for price |
+| 347 | Buy (買)         | **em**   | to take for price |
+| 348 | Store (蔵)       | **thes** | to hold goods     |
+| 349 | Work (働)        | **erg**  | to labor          |
+| 350 | Earn (得)        | **lucr** | to gain           |
+| #   | Concept (Kanji) | Glyph     | Verb Form       |
+| --- | --------------- | --------- | --------------- |
+| 351 | Cause (因)       | **genē**  | to trigger      |
+| 352 | Effect (果)      | **tel**   | to result       |
+| 353 | If (若)          | **hyp**   | to suppose      |
+| 354 | Then (然)        | **sec**   | to follow       |
+| 355 | Not (否)         | **neg**   | to deny         |
+| 356 | And (与)         | **kai**   | to join         |
+| 357 | Or (又)          | **alt**   | to offer choice |
+| 358 | Same (同)        | **iden**  | to match        |
+| 359 | Different (異)   | **heter** | to diverge      |
+| 360 | Opposite (反)    | **contr** | to invert       |
+| #   | Concept (Kanji) | Glyph     | Verb Form    |
+| --- | --------------- | --------- | ------------ |
+| 361 | Exist (有)       | **es**    | to be        |
+| 362 | Become (成)      | **fact**  | to form      |
+| 363 | Change (変)      | **mut**   | to shift     |
+| 364 | Stay (在)        | **man**   | to remain    |
+| 365 | Appear (現)      | **phain** | to surface   |
+| 366 | Disappear (消)   | **van**   | to dissolve  |
+| 367 | Begin (始)       | **arch**  | to initiate  |
+| 368 | End (終)         | **telē**  | to cease     |
+| 369 | Real (実)        | **ver**   | to actualize |
+| 370 | Dream (夢)       | **onir**  | to imagine   |
+| #   | Concept (Kanji) | Glyph    | Verb Form   |
+| --- | --------------- | -------- | ----------- |
+| 371 | One (一)         | **hen**  | to unify    |
+| 372 | Many (多)        | **pol**  | to multiply |
+| 373 | Few (少)         | **olig** | to limit    |
+| 374 | All (全)         | **pan**  | to include  |
+| 375 | Some (幾)        | **mer**  | to part     |
+| 376 | None (無)        | **nih**  | to negate   |
+| 377 | Add (加)         | **add**  | to join     |
+| 378 | Subtract (減)    | **min**  | to remove   |
+| 379 | Divide (割)      | **part** | to split    |
+| 380 | Measure (測)     | **metr** | to quantify |
+| #   | Concept (Kanji) | Glyph     | Verb Form    |
+| --- | --------------- | --------- | ------------ |
+| 381 | Shape (形)       | **morph** | to mold      |
+| 382 | Pattern (模)     | **typ**   | to repeat    |
+| 383 | Frame (枠)       | **skel**  | to support   |
+| 384 | Line (線)        | **gramm** | to draw path |
+| 385 | Point (点)       | **stig**  | to dot       |
+| 386 | Area (域)        | **chor**  | to spread    |
+| 387 | Border (境)      | **lim**   | to confine   |
+| 388 | Inside (内)      | **intra** | to enclose   |
+| 389 | Outside (外)     | **extra** | to exclude   |
+| 390 | Structure (構)   | **tect**  | to assemble  |
+| #   | Concept (Kanji) | Glyph     | Verb Form          |
+| --- | --------------- | --------- | ------------------ |
+| 391 | Cosmos (宇)      | **kosm**  | to order the vast  |
+| 392 | Chaos (混)       | **khaos** | to dissolve form   |
+| 393 | Light (光)       | **lux**   | to reveal          |
+| 394 | Dark (闇)        | **nox**   | to obscure         |
+| 395 | Infinite (無限)   | **apeir** | to stretch         |
+| 396 | Finite (有限)     | **telos** | to close           |
+| 397 | Heaven (天)      | **ouran** | to rise above      |
+| 398 | Earth (地)       | **gaia**  | to ground          |
+| 399 | Soul (魂)        | **psukh** | to animate         |
+| 400 | Void (空)        | **ken**   | to erase existence |
+| #   | Concept (Kanji) | Glyph    | Verb Form    |
+| --- | --------------- | -------- | ------------ |
+| 401 | System (系)      | **sys**  | to interlink |
+| 402 | Order (序)       | **ord**  | to arrange   |
+| 403 | Chaos (乱)       | **dys**  | to disrupt   |
+| 404 | Balance (均)     | **eq**   | to level     |
+| 405 | Feedback (応)    | **loop** | to respond   |
+| 406 | Network (網)     | **ret**  | to interlace |
+| 407 | Flow (流)        | **flux** | to stream    |
+| 408 | Path (道)        | **via**  | to route     |
+| 409 | Link (繋)        | **conn** | to attach    |
+| 410 | Break (裂)       | **rupt** | to sever     |
+| #   | Concept (Kanji) | Glyph    | Verb Form       |
+| --- | --------------- | -------- | --------------- |
+| 421 | Birth (生)       | **gen**  | to begin life   |
+| 422 | Grow (育)        | **phy**  | to expand       |
+| 423 | Age (老)         | **ger**  | to wear         |
+| 424 | Death (死)       | **than** | to cease living |
+| 425 | Breathe (息)     | **spir** | to inhale       |
+| 426 | Eat (食)         | **phag** | to consume      |
+| 427 | Drink (飲)       | **pot**  | to swallow      |
+| 428 | Sleep (眠)       | **dorm** | to rest         |
+| 429 | Wake (覚)        | **vig**  | to rouse        |
+| 430 | Reproduce (繁)   | **rep**  | to clone        |
+| #   | Concept (Kanji) | Glyph     | Verb Form      |
+| --- | --------------- | --------- | -------------- |
+| 431 | War (戦)         | **bell**  | to fight       |
+| 432 | Peace (和)       | **pac**   | to settle      |
+| 433 | Fight (闘)       | **pugn**  | to strike      |
+| 434 | Protect (守)     | **def**   | to shield      |
+| 435 | Attack (攻)      | **ass**   | to invade      |
+| 436 | Defend (防)      | **scut**  | to block       |
+| 437 | Kill (殺)        | **nec**   | to end life    |
+| 438 | Trap (罠)        | **cap**   | to snare       |
+| 439 | Escape (逃)      | **fug**   | to flee        |
+| 440 | Ambush (伏)      | **insid** | to lie in wait |
+| #   | Concept (Kanji) | Glyph     | Verb Form     |
+| --- | --------------- | --------- | ------------- |
+| 441 | King (王)        | **rex**   | to rule       |
+| 442 | Queen (女王)      | **regī**  | to reign      |
+| 443 | Servant (僕)     | **serv**  | to assist     |
+| 444 | Master (主)      | **dom**   | to command    |
+| 445 | Elder (翁)       | **archē** | to advise     |
+| 446 | Child (児)       | **inf**   | to grow under |
+| 447 | Parent (親)      | **genet** | to raise      |
+| 448 | Stranger (他)    | **xen**   | to estrange   |
+| 449 | Leader (導)      | **hēg**   | to guide      |
+| 450 | Follower (従)    | **duct**  | to trail      |
+| #   | Concept (Kanji) | Glyph    | Verb Form |
+| --- | --------------- | -------- | --------- |
+| 451 | Tool (具)        | **op**   | to equip  |
+| 452 | Weapon (武)      | **arm**  | to arm    |
+| 453 | Book (書)        | **bibl** | to record |
+| 454 | Scroll (巻)      | **vol**  | to wrap   |
+| 455 | Cloth (布)       | **tex**  | to weave  |
+| 456 | Ship (船)        | **nav**  | to sail   |
+| 457 | Wheel (輪)       | **rot**  | to spin   |
+| 458 | Door (戸)        | **port** | to open   |
+| 459 | Lock (錠)        | **clav** | to secure |
+| 460 | Key (鍵)         | **clē**  | to unlock |
+| #   | Concept (Kanji) | Glyph     | Verb Form   |
+| --- | --------------- | --------- | ----------- |
+| 461 | Time (時)        | **chron** | to pass     |
+| 462 | Moment (瞬)      | **inst**  | to snap     |
+| 463 | Now (今)         | **nunc**  | to present  |
+| 464 | Past (過)        | **preh**  | to recall   |
+| 465 | Future (未)      | **pros**  | to foresee  |
+| 466 | Always (常)      | **sem**   | to repeat   |
+| 467 | Never (絶)       | **null**  | to void     |
+| 468 | Soon (早)        | **cito**  | to hasten   |
+| 469 | Late (遅)        | **tard**  | to delay    |
+| 470 | Begin (始)       | **init**  | to commence |
+| #   | Concept (Kanji) | Glyph     | Verb Form          |
+| --- | --------------- | --------- | ------------------ |
+| 471 | Think (思)       | **log**   | to reason          |
+| 472 | Know (知)        | **gnō**   | to grasp           |
+| 473 | Remember (憶)    | **mem**   | to store           |
+| 474 | Forget (忘)      | **obl**   | to lose            |
+| 475 | Imagine (想)     | **phant** | to shape ideas     |
+| 476 | Doubt (疑)       | **skept** | to question        |
+| 477 | Learn (学)       | **disc**  | to absorb          |
+| 478 | Teach (教)       | **doc**   | to instruct        |
+| 479 | Focus (注)       | **fix**   | to attend          |
+| 480 | Distract (散)    | **div**   | to scatter thought |
+| #   | Concept (Kanji) | Glyph      | Verb Form                  |
+| --- | --------------- | ---------- | -------------------------- |
+| 481 | Love (愛)        | **phil**   | to embrace                 |
+| 482 | Hate (憎)        | **mis**    | to reject                  |
+| 483 | Joy (喜)         | **gaud**   | to cheer                   |
+| 484 | Sorrow (悲)      | **dol**    | to ache                    |
+| 485 | Fear (恐)        | **phob**   | to tremble                 |
+| 486 | Anger (怒)       | **ir**     | to flare                   |
+| 487 | Calm (静)        | **plac**   | to settle                  |
+| 488 | Shame (恥)       | **pud**    | to hide face               |
+| 489 | Pride (誇)       | **superb** | to raise head              |
+| 490 | Envy (嫉)        | **zel**    | to desire what’s not yours |
+| #   | Concept (Kanji) | Glyph     | Verb Form       |
+| --- | --------------- | --------- | --------------- |
+| 491 | Code (符)        | **cyph**  | to encode       |
+| 492 | Signal (信)      | **ping**  | to transmit     |
+| 493 | Data (数)        | **dat**   | to store        |
+| 494 | Bit (粒)         | **bit**   | to flip         |
+| 495 | Input (入)       | **in**    | to feed         |
+| 496 | Output (出)      | **out**   | to emit         |
+| 497 | Loop (繰)        | **rec**   | to repeat cycle |
+| 498 | Logic (理)       | **bool**  | to compare      |
+| 499 | Execute (実)     | **run**   | to activate     |
+| 500 | Hack (割)        | **crack** | to breach       |

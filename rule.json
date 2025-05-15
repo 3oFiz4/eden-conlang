@@ -1,0 +1,381 @@
+[
+    {
+        "englishPattern": "(?:do)? ?no?'?t ((?:to )?.+)",
+        "englishResult": "i$1",
+        "edenPattern": "i-((?:to )?.+)",
+        "edenResult": "don't $1"
+    },
+    {
+    "englishPattern": "((?:to )?.+)=ING-DID-BEEN-EN",
+    "englishResult": "$1trahs",
+    "edenPattern": "((?:to )?.+)trahs",
+    "edenResult": "$1=ING-DID-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID-BEEN-MAKE",
+    "englishResult": "$1trahf",
+    "edenPattern": "((?:to )?.+)trahf",
+    "edenResult": "$1=ING-DID-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DO-BEEN-EN",
+    "englishResult": "$1trohs",
+    "edenPattern": "((?:to )?.+)trohs",
+    "edenResult": "$1=ING-DO-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DO-BEEN-MAKE",
+    "englishResult": "$1trohf",
+    "edenPattern": "((?:to )?.+)trohf",
+    "edenResult": "$1=ING-DO-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL-BEEN-EN",
+    "englishResult": "$1trehs",
+    "edenPattern": "((?:to )?.+)trehs",
+    "edenResult": "$1=ING-WILL-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL-BEEN-MAKE",
+    "englishResult": "$1trehf",
+    "edenPattern": "((?:to )?.+)trehf",
+    "edenResult": "$1=ING-WILL-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL_DID-BEEN-EN",
+    "englishResult": "$1treahs",
+    "edenPattern": "((?:to )?.+)treahs",
+    "edenResult": "$1=ING-WILL_DID-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL_DID-BEEN-MAKE",
+    "englishResult": "$1treahf",
+    "edenPattern": "((?:to )?.+)treahf",
+    "edenResult": "$1=ING-WILL_DID-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID_WILL-BEEN-EN",
+    "englishResult": "$1traehs",
+    "edenPattern": "((?:to )?.+)traehs",
+    "edenResult": "$1=ING-DID_WILL-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID_WILL-BEEN-MAKE",
+    "englishResult": "$1traehf",
+    "edenPattern": "((?:to )?.+)traehf",
+    "edenResult": "$1=ING-DID_WILL-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID-BEEN",
+    "englishResult": "$1trah",
+    "edenPattern": "((?:to )?.+)trah",
+    "edenResult": "$1=ING-DID-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID-EN",
+    "englishResult": "$1tras",
+    "edenPattern": "((?:to )?.+)tras",
+    "edenResult": "$1=ING-DID-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID-MAKE",
+    "englishResult": "$1traf",
+    "edenPattern": "((?:to )?.+)traf",
+    "edenResult": "$1=ING-DID-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DO-BEEN",
+    "englishResult": "$1troh",
+    "edenPattern": "((?:to )?.+)troh",
+    "edenResult": "$1=ING-DO-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DO-EN",
+    "englishResult": "$1tros",
+    "edenPattern": "((?:to )?.+)tros",
+    "edenResult": "$1=ING-DO-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DO-MAKE",
+    "englishResult": "$1trof",
+    "edenPattern": "((?:to )?.+)trof",
+    "edenResult": "$1=ING-DO-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL-BEEN",
+    "englishResult": "$1treh",
+    "edenPattern": "((?:to )?.+)treh",
+    "edenResult": "$1=ING-WILL-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL-EN",
+    "englishResult": "$1tres",
+    "edenPattern": "((?:to )?.+)tres",
+    "edenResult": "$1=ING-WILL-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL-MAKE",
+    "englishResult": "$1tref",
+    "edenPattern": "((?:to )?.+)tref",
+    "edenResult": "$1=ING-WILL-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL_DID-BEEN",
+    "englishResult": "$1treah",
+    "edenPattern": "((?:to )?.+)treah",
+    "edenResult": "$1=ING-WILL_DID-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL_DID-EN",
+    "englishResult": "$1treas",
+    "edenPattern": "((?:to )?.+)treas",
+    "edenResult": "$1=ING-WILL_DID-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL_DID-MAKE",
+    "englishResult": "$1treaf",
+    "edenPattern": "((?:to )?.+)treaf",
+    "edenResult": "$1=ING-WILL_DID-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID_WILL-BEEN",
+    "englishResult": "$1traeh",
+    "edenPattern": "((?:to )?.+)traeh",
+    "edenResult": "$1=ING-DID_WILL-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID_WILL-EN",
+    "englishResult": "$1traes",
+    "edenPattern": "((?:to )?.+)traes",
+    "edenResult": "$1=ING-DID_WILL-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID_WILL-MAKE",
+    "englishResult": "$1traef",
+    "edenPattern": "((?:to )?.+)traef",
+    "edenResult": "$1=ING-DID_WILL-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID-BEEN-EN",
+    "englishResult": "$1tahs",
+    "edenPattern": "((?:to )?.+)tahs",
+    "edenResult": "$1=DID-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID-BEEN-MAKE",
+    "englishResult": "$1tahf",
+    "edenPattern": "((?:to )?.+)tahf",
+    "edenResult": "$1=DID-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DO-BEEN-EN",
+    "englishResult": "$1tohs",
+    "edenPattern": "((?:to )?.+)tohs",
+    "edenResult": "$1=DO-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DO-BEEN-MAKE",
+    "englishResult": "$1tohf",
+    "edenPattern": "((?:to )?.+)tohf",
+    "edenResult": "$1=DO-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL-BEEN-EN",
+    "englishResult": "$1tehs",
+    "edenPattern": "((?:to )?.+)tehs",
+    "edenResult": "$1=WILL-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL-BEEN-MAKE",
+    "englishResult": "$1tehf",
+    "edenPattern": "((?:to )?.+)tehf",
+    "edenResult": "$1=WILL-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL_DID-BEEN-EN",
+    "englishResult": "$1teahs",
+    "edenPattern": "((?:to )?.+)teahs",
+    "edenResult": "$1=WILL_DID-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL_DID-BEEN-MAKE",
+    "englishResult": "$1teahf",
+    "edenPattern": "((?:to )?.+)teahf",
+    "edenResult": "$1=WILL_DID-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID_WILL-BEEN-EN",
+    "englishResult": "$1taehs",
+    "edenPattern": "((?:to )?.+)taehs",
+    "edenResult": "$1=DID_WILL-BEEN-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID_WILL-BEEN-MAKE",
+    "englishResult": "$1taehf",
+    "edenPattern": "((?:to )?.+)taehf",
+    "edenResult": "$1=DID_WILL-BEEN-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID",
+    "englishResult": "$1tra",
+    "edenPattern": "((?:to )?.+)tra",
+    "edenResult": "$1=ING-DID"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DO",
+    "englishResult": "$1tro",
+    "edenPattern": "((?:to )?.+)tro",
+    "edenResult": "$1=ING-DO"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL",
+    "englishResult": "$1tre",
+    "edenPattern": "((?:to )?.+)tre",
+    "edenResult": "$1=ING-WILL"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-WILL_DID",
+    "englishResult": "$1trea",
+    "edenPattern": "((?:to )?.+)trea",
+    "edenResult": "$1=ING-WILL_DID"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=ING-DID_WILL",
+    "englishResult": "$1trae",
+    "edenPattern": "((?:to )?.+)trae",
+    "edenResult": "$1=ING-DID_WILL"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID-BEEN",
+    "englishResult": "$1tah",
+    "edenPattern": "((?:to )?.+)tah",
+    "edenResult": "$1=DID-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID-EN",
+    "englishResult": "$1tas",
+    "edenPattern": "((?:to )?.+)tas",
+    "edenResult": "$1=DID-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID-MAKE",
+    "englishResult": "$1taf",
+    "edenPattern": "((?:to )?.+)taf",
+    "edenResult": "$1=DID-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DO-BEEN",
+    "englishResult": "$1toh",
+    "edenPattern": "((?:to )?.+)toh",
+    "edenResult": "$1=DO-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DO-EN",
+    "englishResult": "$1tos",
+    "edenPattern": "((?:to )?.+)tos",
+    "edenResult": "$1=DO-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DO-MAKE",
+    "englishResult": "$1tof",
+    "edenPattern": "((?:to )?.+)tof",
+    "edenResult": "$1=DO-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL-BEEN",
+    "englishResult": "$1teh",
+    "edenPattern": "((?:to )?.+)teh",
+    "edenResult": "$1=WILL-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL-EN",
+    "englishResult": "$1tes",
+    "edenPattern": "((?:to )?.+)tes",
+    "edenResult": "$1=WILL-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL-MAKE",
+    "englishResult": "$1tef",
+    "edenPattern": "((?:to )?.+)tef",
+    "edenResult": "$1=WILL-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL_DID-BEEN",
+    "englishResult": "$1teah",
+    "edenPattern": "((?:to )?.+)teah",
+    "edenResult": "$1=WILL_DID-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL_DID-EN",
+    "englishResult": "$1teas",
+    "edenPattern": "((?:to )?.+)teas",
+    "edenResult": "$1=WILL_DID-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL_DID-MAKE",
+    "englishResult": "$1teaf",
+    "edenPattern": "((?:to )?.+)teaf",
+    "edenResult": "$1=WILL_DID-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID_WILL-BEEN",
+    "englishResult": "$1taeh",
+    "edenPattern": "((?:to )?.+)taeh",
+    "edenResult": "$1=DID_WILL-BEEN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID_WILL-EN",
+    "englishResult": "$1taes",
+    "edenPattern": "((?:to )?.+)taes",
+    "edenResult": "$1=DID_WILL-EN"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID_WILL-MAKE",
+    "englishResult": "$1taef",
+    "edenPattern": "((?:to )?.+)taef",
+    "edenResult": "$1=DID_WILL-MAKE"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID",
+    "englishResult": "$1ta",
+    "edenPattern": "((?:to )?.+)ta",
+    "edenResult": "$1=DID"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DO",
+    "englishResult": "$1to",
+    "edenPattern": "((?:to )?.+)to",
+    "edenResult": "$1=DO"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL",
+    "englishResult": "$1te",
+    "edenPattern": "((?:to )?.+)te",
+    "edenResult": "$1=WILL"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=WILL_DID",
+    "englishResult": "$1tea",
+    "edenPattern": "((?:to )?.+)tea",
+    "edenResult": "$1=WILL_DID"
+  },
+  {
+    "englishPattern": "((?:to )?.+)=DID_WILL",
+    "englishResult": "$1tae",
+    "edenPattern": "((?:to )?.+)tae",
+    "edenResult": "$1=DID_WILL"
+  },
+  
+{
+    "englishPattern": "(?<a>.+[aiueoɘáâàîĭúǔêèėɘٚɘٛóōôs])(?:-kan)|(?:(?:to )?(?:make |cause ))?(?<a>.+[aiueoɘáâàîĭúǔêèėɘٚɘٛóōôs])",
+    "englishResult": "${a}sern",
+    "edenPattern": "(?:(?:to )?(.+([^s])))(?(2)s?ern)",
+    "edenResult": "to make $1"
+  },
+{
+    "englishPattern": "(?<a>.+[^aiueoɘáâàîĭúǔêèėɘٚɘٛóōôs])(?:-kan)|(?:(?:to )?(?:make |cause ))?(?<a>.+[^aiueoɘáâàîĭúǔêèėɘٚɘٛóōôs])",
+    "englishResult": "${a}ern",
+    "edenPattern": "(?:(?:to )?(.+([^s])))(?(2)s?ern)",
+    "edenResult": "to make $1"
+  }
+]
