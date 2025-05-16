@@ -1,0 +1,24 @@
+edenVocab | translationEquivalent | atom | note
+haзs | understad;realize;to understand;to realize; to comprehend; to grasp; to become clear; to realised; paham; wakaru
+sor | bagi;wakeru;bun;part;segment;share;degree;to divide;to split;to part; to separate; to divide up; to classify;to share;to distribute; to tie; to sort; to disperse; to scatter;  | | is equiv "bagi"
+aзs | ingin;mau;to want;to request;desire;want;will;urge;to desire
+saзs | temu;mitsukeru;to find; to discover;to come across;to spot;nemu
+daзs | ambil;toru;to take; to pick; to pick up;to grab;to catch;to hold;to pass;to receive | | Sense of Taking
+fзs | narau;ajar;to learn;to study;to take lessons in;to master; to absorb;study;learn
+nзs | jadi;naru;to become;to grow;to result in;to turn out; to end up;to come to;to add up;to make;to change;to turn; to transform; to succeed;to accomplish
+cзs | datang;kuru;to come;to approach;to arrive;to cause;
+crзs | siap;to prepare;to provide;to set up;to establish;to organize;to lay down;to furnish;to equip;to install;to set;to ready;ready;set;-resultant | | siap-siap is not cres-cres, just cres. It can also act as an stative verb.
+faзs | masuk;include;to include;to instruct;to make one understand;to mix;to combine;to insert;to incorporate;to embed;to fill;to contain;to enter;to come in;to go in;to get in;to join;entry;to dive;to infiltrate;to walk in;to set in || It has two meanings
+ahouge | thank you;thanks;ty
+зs | -made;suru;buat;to create;to make;to produce;to invent;to bring forth;to bear;to form;to constitute;to build;to do;
+gзs | tambah;to add;to sum;to append;to annex;to increase;to gather;to count;to let join;to inflict;to deal;to top up;to pour;to serve;to put on;to apply;to append;-er;more- || Kind = Hoi, Kinder = Hoigз
+pзs | kurang;to decrease;to diminish;to abate;to deduct;to substract;to decline;to deteriorate;to cut;to reduce;to lessen;to minus;to substract;to deficient;to lack;-less;not eough- || Kind = Hoi, Kind-less = Hoipe
+fiзs | kecuali;keluar;to spill;to exclude;to omit;to leave out;to curtail;to economize;to remove;to get rid of;to take away;to except;to leave out;to deatch;to unfasten;to drop;to expel
+qзs | hancur;rusak;to break;to destroy;to demolish;to wreck;to ruin;to spoil;to damage;to tear;to disturb;to conquer;to crack;to torn;to smash;to decay;to wither;to crash;to crumble;to disintegrate;to shatter;to perish
+shзs | pikir;to think;to consider;to believe;to reckon;to plan;to assess;to regard;to imagine;to suppose;to recall;to remember;to ponder;to contemplate;to reflect;to bear in mind;to mind;to care about;to have a regard for;to concern
+------
+fie | pilih;to decide;to determine;to prescribe;to choose;to make up;to resolve;to settle;to arrange;to appoint;to elect;to assume
+frie | therefore;conclusion;so;then;to sum up;to conclude;to end;to finish;to over;to complete;to deduce
+hae | hidup;life;to live;to bear;to turn on
+hhae | tumbuh;to grow;
+
